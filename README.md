@@ -13,4 +13,4 @@ Routes all requests that starts with `/api` to **server**. All other are directe
 To access the application go to `http://localhost:3050`
 
 ![alt text](ss.png)
-![alt text](/client/src/Diagram.png)
+![alt text](/client/src/Diagram.jpg)
